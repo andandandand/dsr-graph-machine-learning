@@ -1,1 +1,1 @@
-# dsr-graph-machine-learning
+# Graph Machine Learning - Data Science Retreat
